@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=muten&desc=welcome&fontSize=90&fontAlignY=33&descAlign=61&descAlignY=51)
-### *:wave:Greeting,*
+### *:wave: Greeting,*
 - :computer: AI 개발자 이성준입니다.
 - :mailbox: juhnmayer@gmail.com
 
