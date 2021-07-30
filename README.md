@@ -17,14 +17,15 @@
 
 <br>
 <br>
+| kaggle | abc |
+| ---    | --- |
+| dacon  | abc |
 <br>
 
 [![muten's GitHub stats](https://github-readme-stats.vercel.app/api?username=muten-dev&show_icons=true&theme=onedark)](https://github.com/muten-dev/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muten-dev&layout=compact)](https://github.com/muten-dev/)
 
 
-| kaggle | abc |
-| dacon  | abc |
 
 <!---
 **muten-dev/muten-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
