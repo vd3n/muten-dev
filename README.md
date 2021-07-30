@@ -28,7 +28,7 @@
 ### *:beers: Contact me*
 
 <a href="https://muten.tistory.com"><img src="https://img.shields.io/badge/blog-muten.tistory.com-deeppink?style=for-the-badge&logo=blogger&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/gmail-juhnmayer@gmail.com-crimson?style=for-the-badge&logo=gmail&logoColor=white"/><br>
+<a href="mailto:juhnmayer@gmail.com"><img src="https://img.shields.io/badge/gmail-juhnmayer@gmail.com-crimson?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/kakao-@juhnmayer-gold?style=for-the-badge&logo=kakaotalk&logoColor=white"/><br>
 <br>
 <br>
