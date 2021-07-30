@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=muten&desc=welcome&fontSize=90&fontAlignY=33&descAlign=61&descAlignY=51)
-
-
 - 👋 Hi, I’m @muten-dev
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Python, Django REST Framework, React.
