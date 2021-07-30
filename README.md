@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=muten&desc=welcome&fontSize=90&fontAlignY=33&descAlign=61&descAlignY=51)
-#### *:wave: 안녕하세요,*
+#### *:wave:안녕하세요,*
 - :computer: AI 개발자 이성준입니다.
 - :mailbox: Contact: juhnmayer@gmail.com
 
-#### *:octocat: Language*
+#### *:octocat:Language*
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/django-gray?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>
-#### *Machine Learning/Deep Learning*
+#### *:bulb:Machine Learning/Deep Learning*
 <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/pandas-purple?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
