@@ -4,6 +4,8 @@
 - ⌨️ 다양한 분야의 인공지능 개발에 관심이 있습니다.
 - 🥑 감사합니다.
 
+<br>
+
 ### *:octocat: Language*
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/django-darkslategray?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
@@ -15,6 +17,8 @@
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/react-deepskyblue?style=for-the-badge&logo=react&logoColor=white"/>
 
+<br>
+
 ### *:bulb: Machine Learning/Deep Learning*
 <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
@@ -22,9 +26,13 @@
 <img src="https://img.shields.io/badge/numpy-royalblue?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;
 
+<br>
+
 ### *:trophy: Competitions*
 <a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
 <a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-orchid?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
+
+<br>
 
 ### *:beers: Contact me*
 
