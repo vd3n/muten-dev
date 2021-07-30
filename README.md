@@ -22,7 +22,7 @@
 
 <br>
 <br>
-<img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/>(https://www.kaggle.com/mutendev)&nbsp;
+<a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/dacon-violet?style=for-the-badge&logo=dacon&logoColor=white"/>(https://dacon.io/myprofile/428385/home)
 <br>
 
