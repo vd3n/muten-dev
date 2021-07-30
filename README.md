@@ -22,6 +22,7 @@
 <br>
 ### *:trophy: Competitions*
 <br>
+
 ### *:beers: Contact me*
 <a href="https://muten.tistory.com"><img src="https://img.shields.io/badge/blog-gray?style=for-the-badge&logo=blogger&logoColor=white"/></a>&nbsp;
 <a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
