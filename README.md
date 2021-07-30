@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=muten&desc=welcome&fontSize=90&fontAlignY=35&descAlign=61&descAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=muten&desc=welcome&fontSize=90&fontAlignY=32&descAlign=61&descAlignY=50)
 
 
 - 👋 Hi, I’m @muten-dev
