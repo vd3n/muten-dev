@@ -1,9 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 - 👋 Hi, I’m @muten-dev
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Python, Django REST Framework, React.
 - 💞️ I’m looking to collaborate on anything I can do.
 - 📫 How to reach me juhnmayer@gmail.com
-
 
 
 [![muten's GitHub stats](https://github-readme-stats.vercel.app/api?username=muten-dev&show_icons=true&theme=onedark)](https://github.com/muten-dev/)
