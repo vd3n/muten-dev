@@ -5,6 +5,7 @@
 
 #### *Language*
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/django-gray?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
