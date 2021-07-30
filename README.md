@@ -3,7 +3,6 @@
 - 🖥️ AI 개발자 이성준입니다.
 - ⌨️ 다양한 분야의 인공지능 개발에 관심이 있습니다.
 - 🥑 감사합니다.
-
 <br>
 
 ### *:octocat: Language*
@@ -16,7 +15,6 @@
 <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/react-deepskyblue?style=for-the-badge&logo=react&logoColor=white"/>
-
 <br>
 
 ### *:bulb: Machine Learning/Deep Learning*
@@ -25,17 +23,14 @@
 <img src="https://img.shields.io/badge/pandas-mediumslateblue?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/numpy-royalblue?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;
-
 <br>
 
 ### *:trophy: Competitions*
 <a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
 <a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-orchid?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
-
 <br>
 
 ### *:beers: Contact me*
-
 <a href="https://muten.tistory.com"><img src="https://img.shields.io/badge/blog-muten-cyan?style=flat&logo=blogger&logoColor=white"/></a>&nbsp;
 <a href="mailto:juhnmayer@gmail.com"><img src="https://img.shields.io/badge/gmail-juhnmayer-crimson?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://open.kakao.com/o/sgR0Csrd"><img src="https://img.shields.io/badge/kakao-OpenChat-gold?style=flat&logo=kakaotalk&logoColor=white"/></a><br>
