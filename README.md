@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=muten&desc=welcome&fontSize=90&fontAlignY=33&descAlign=61&descAlignY=51)
 #### 👋 안녕하세요,
-- 💻 AI 개발자 이성준입니다.
-- :email: Contact: juhnmayer@gmail.com
+- :computer: AI 개발자 이성준입니다.
+- :mailbox: Contact: juhnmayer@gmail.com
 
 #### Language
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
