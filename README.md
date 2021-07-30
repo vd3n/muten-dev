@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;
 
 ### *:postbox: Contact me*
-<a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a><a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-violet?style=for-the-badge&logo=dacon&logoColor=white"/></a>
+<a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
+<a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-violet?style=for-the-badge&logo=dacon&logoColor=white"/></a>
 <br>
 
 [![muten's GitHub stats](https://github-readme-stats.vercel.app/api?username=muten-dev&show_icons=true&theme=onedark)](https://github.com/muten-dev/)
