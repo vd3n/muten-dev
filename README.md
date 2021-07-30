@@ -4,9 +4,16 @@
 - :mailbox: Contact: juhnmayer@gmail.com
 
 #### Language
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>
-### ML/DL
-<img src="https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>
+#### ML/DL
+<img src="https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/pandas-purple?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/numpy-green?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/opencv-red?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;
 
 <br>
 <br>
