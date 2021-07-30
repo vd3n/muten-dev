@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=muten&desc=welcome&fontSize=90&fontAlignY=33&descAlign=61&descAlignY=51)
 ### *:wave: Greeting,*
-- :computer: AI 개발자 이성준입니다.
-- :mailbox: juhnmayer@gmail.com
+- 🖥️ AI 개발자 이성준입니다.
+- ⌨️ 다양한 인공지능 개발에 관심이 있습니다.
+- 🥑 감사합니다.
 
 ### *:octocat: Language*
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
