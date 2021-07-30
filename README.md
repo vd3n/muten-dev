@@ -4,7 +4,7 @@
 - :mailbox: Contact: juhnmayer@gmail.com
 
 #### Language
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white"/>
 ### ML/DL
 
 <br>
