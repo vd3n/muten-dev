@@ -25,10 +25,8 @@
 <br>
 
 ### *:beers: Contact me*
-<img src="https://img.shields.io/badge/gmail-juhnmayer@gmail.com-crimson?style=for-the-badge&logo=kakaotalk&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/kakao-@juhnmayer-gold?style=for-the-badge&logo=gmail&logoColor=white"/>
-<br>
+<img src="https://img.shields.io/badge/gmail-juhnmayer@gmail.com-crimson?style=for-the-badge&logo=gmail&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/kakao-@juhnmayer-gold?style=for-the-badge&logo=kakaotalk&logoColor=white"/><br>
 <a href="https://muten.tistory.com"><img src="https://img.shields.io/badge/blog-gray?style=for-the-badge&logo=blogger&logoColor=white"/></a>&nbsp;
 <a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
 <a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-violet?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
