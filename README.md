@@ -24,6 +24,8 @@
 <a href="https://www.kaggle.com/mutendev" target="_blank"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
 <a href="https://dacon.io/myprofile/428385/home" target="_blank"><img src="https://img.shields.io/badge/dacon-violet?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
 <br>
+<br>
+<br>
 
 [![muten's GitHub stats](https://github-readme-stats.vercel.app/api?username=muten-dev&show_icons=true&theme=onedark)](https://github.com/muten-dev/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muten-dev&layout=compact)](https://github.com/muten-dev/)
