@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything I can do.
 - 📫 How to reach me juhnmayer@gmail.com
 
-[![muten's GitHub stats](https://github-readme-stats.vercel.app/api?username=muten-dev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![muten's GitHub stats](https://github-readme-stats.vercel.app/api?username=muten-dev&show_icons=true&theme=dracula)](https://github.com/muten-dev/)
 
 <!---
 jayde-code/jayde-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
