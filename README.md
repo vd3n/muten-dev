@@ -7,9 +7,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-[![muten's GitHub stats](https://github-readme-stats.vercel.app/api?username=muten-dev&show_icons=true&theme=onedark)](https://github.com/muten-dev/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muten-dev&layout=compact)](https://github.com/muten-dev/)
+  <br/>
+  <br/>
+  [![muten's GitHub stats](https://github-readme-stats.vercel.app/api?username=muten-dev&show_icons=true&theme=onedark)](https://github.com/muten-dev/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muten-dev&layout=compact)](https://github.com/muten-dev/)
 </div>
 
 <!---
