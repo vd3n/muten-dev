@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=SEONGJUNLEE(muten)&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SEONGJUN(muten)&fontSize=90)
 
 
 - 👋 Hi, I’m @muten-dev
