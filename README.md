@@ -11,7 +11,7 @@
 <br>
 <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/react-turquoise?style=for-the-badge&logo=react&logoColor=white"/>
 
 ### *:bulb: Machine Learning/Deep Learning*
