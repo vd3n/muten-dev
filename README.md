@@ -29,7 +29,7 @@
 
 <a href="https://muten.tistory.com"><img src="https://img.shields.io/badge/blog-muten.tistory.com-deeppink?style=flat&logo=blogger&logoColor=white"/></a><br>
 <a href="mailto:juhnmayer@gmail.com"><img src="https://img.shields.io/badge/gmail-juhnmayer@gmail.com-crimson?style=flat&logo=gmail&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/kakao-@juhnmayer-gold?style=flat&logo=kakaotalk&logoColor=white"/><br>
+<a href="https://open.kakao.com/o/sgR0Csrd"><img src="https://img.shields.io/badge/kakao-@juhnmayer-gold?style=flat&logo=kakaotalk&logoColor=white"/></a><br>
 <br>
 <br>
 
