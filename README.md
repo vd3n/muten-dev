@@ -21,9 +21,9 @@
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;
 
 ### *:postbox: Contact me*
-<img src="https://img.shields.io/badge/blog-gray?style=for-the-badge&logo=blogger&logoColor=white&link=https://muten.tistory.com"/>&nbsp;
-<a href="https://www.kaggle.com/mutendev" target="_blank"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
-<a href="https://dacon.io/myprofile/428385/home" target="_blank"><img src="https://img.shields.io/badge/dacon-violet?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
+<a href="https://muten.tistory.com"><img src="https://img.shields.io/badge/blog-gray?style=for-the-badge&logo=blogger&logoColor=white"/></a>&nbsp;
+<a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
+<a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-violet?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
 <br>
 <br>
 <br>
