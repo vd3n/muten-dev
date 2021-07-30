@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Java-orangered?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
 <br>
-<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML-tomato?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/react-turquoise?style=for-the-badge&logo=react&logoColor=white"/>
