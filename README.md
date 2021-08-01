@@ -26,7 +26,7 @@
 <br>
 
 ### *:trophy: Competition*
-<a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-royalblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
+<a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-cornflowerblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
 <a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-orchid?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
 <br>
 
