@@ -25,8 +25,8 @@
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;
 <br>
 
-### *:trophy: Competitions*
-<a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-skyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
+### *:trophy: Competition*
+<a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-lightskyblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
 <a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-orchid?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
 <br>
 
