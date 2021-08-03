@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/pandas-mediumslateblue?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/numpy-royalblue?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;
+<!-- <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp; -->
 <br>
 
 ### *:trophy: Competition*
