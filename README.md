@@ -1,11 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=muten&desc=welcome&fontSize=90&fontAlignY=33&descAlign=61&descAlignY=51)
 ### *:wave: Greeting,*
-- 📱 iOS 개발 / 🧠 AI 개발 / 🖥️ Web 개발자 이성준입니다.
+- 📱 iOS / 🧠 A.I. / 🖥️ Web 개발자 이성준입니다.
 - ⌨️ 다양한 배움에 관심이 있습니다.
 - 🥑 감사합니다.
 <br>
 
 ### *:octocat: Language*
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>&nbsp;
+<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/django-darkslategray?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-orangered?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
@@ -16,6 +20,8 @@
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/react-deepskyblue?style=for-the-badge&logo=react&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&nbsp;
 
 ### *:bulb: Machine Learning/Deep Learning*
 <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white"/>&nbsp;
