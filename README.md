@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=muten&desc=welcome&fontSize=90&fontAlignY=33&descAlign=61&descAlignY=51)
 ### *:wave: Greeting,*
-- 🖥️ AI 개발자 이성준입니다.
-- ⌨️ 다양한 분야의 인공지능 개발에 관심이 있습니다.
+- 📱 iOS 개발 / 🧠 AI 개발 / 🖥️ Web 개발자 이성준입니다.
+- ⌨️ 다양한 배움에 관심이 있습니다.
 - 🥑 감사합니다.
 <br>
 
