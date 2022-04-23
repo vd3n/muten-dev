@@ -11,26 +11,26 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>&nbsp;
 <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/django-darkslategray?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Java-orangered?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
 <br>
-<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/react-deepskyblue?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&nbsp;
 
 ### *:bulb: Machine Learning/Deep Learning*
-<img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
 <br>
-<img src="https://img.shields.io/badge/pandas-mediumslateblue?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/numpy-royalblue?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <br>
 
 ### *:trophy: Competition*
