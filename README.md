@@ -17,7 +17,7 @@
 <br>
 <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/react-deepskyblue?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white"/>
+<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&nbsp;
