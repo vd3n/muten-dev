@@ -24,8 +24,11 @@
 
 ### *:bulb: Machine Learning/Deep Learning*
 <img src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>&nbsp;
+<br>
 <img src="https://img.shields.io/badge/pandas-mediumslateblue?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/numpy-royalblue?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 <br>
